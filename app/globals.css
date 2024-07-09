@@ -31,3 +31,10 @@ body {
     text-wrap: balance;
   }
 }
+
+.customBg {
+  background-image: url('https://i.pinimg.com/564x/fb/8c/81/fb8c817506dbea339fb1ced212f10352.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  mask-image: linear-gradient(180deg, black 10%, transparent 100%);
+}
